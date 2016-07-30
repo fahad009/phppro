@@ -11,11 +11,14 @@
 </head>
 <body>
 
+
+
+
 <div id="wapper">
     <div id="heading">
          <div id="ff_select_div">
-             <select id="ff_select">
-                 <option value="volvo"></option>
+             <select id="ff_select" onchange="abc()">
+                 <option value="Page_1-1_First_Page.html">Page_1-1_First_Page.html</option><option value="Page_2-1_Second_Page.html">Page_2-1_Second_Page.html</option><option value="Page_3-1_Second_Page.html">Page_3-1_Second_Page.html</option>
 
              </select>
          </div>
@@ -76,7 +79,7 @@
     var z=0;
 
     $.ajax({
-        url: “Page1List 2",
+        url: "https://cam29.herokuapp.com/Page1List_2",
         success: function(data){
             $(data).find("td > a").each(function(){
                 // will loop through
