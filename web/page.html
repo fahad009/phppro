@@ -106,6 +106,9 @@
     var aaa=document.getElementById("ff_select").value;
     document.getElementById("link123").innerHTML='<a style="text-decoration: underline;color: red;cursor: pointer;" onclick="go()" id="link_url" >'+aaa+'</a>';
 
+    if(localStorage.getItem("name")==null) {
+        localStorage.setItem("name", aaa);
+    }
 
 
     function abc(){
@@ -126,7 +129,7 @@
 
     setInterval(function(){
 
-        var aaa=localStorage.getItem("name");;
+        var aaa=localStorage.getItem("name");
         document.getElementById("link123").innerHTML='<a style="text-decoration: underline;color: red;cursor: pointer;" onclick="go()" id="link_url" >'+aaa+'</a>';
 
     }, 5000);
