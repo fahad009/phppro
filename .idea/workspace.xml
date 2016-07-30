@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bafb553-6b95-424a-9bea-8470814bd40d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/page.html" afterPath="$PROJECT_DIR$/web/page.html" />
-    </list>
+    <list default="true" id="8bafb553-6b95-424a-9bea-8470814bd40d" name="Default" comment="" />
     <ignored path="phpmy.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
