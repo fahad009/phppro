@@ -11,6 +11,13 @@
 </head>
 <body>
 
+<?php
+
+ header('Access-Control-Allow-Origin: *'); 
+
+?>
+
+
 <div id="wapper">
     <div id="heading">
          <div id="ff_select_div">
