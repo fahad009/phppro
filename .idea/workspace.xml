@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bafb553-6b95-424a-9bea-8470814bd40d" name="Default" comment="" />
+    <list default="true" id="8bafb553-6b95-424a-9bea-8470814bd40d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/page.html" afterPath="$PROJECT_DIR$/web/page.html" />
+    </list>
     <ignored path="phpmy.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,13 +40,19 @@
       <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5973451" vertical-offset="1425" max-vertical-offset="2220">
-              <caret line="122" column="60" selection-start-line="122" selection-start-column="60" selection-end-line="122" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.5973451" vertical-offset="1410" max-vertical-offset="2205">
+              <caret line="121" column="63" selection-start-line="121" selection-start-column="63" selection-end-line="121" selection-end-column="63" />
               <folding>
-                <marker date="1469876472000" expanded="true" signature="2674:2728" placeholder="..." />
-                <marker date="1469876472000" expanded="true" signature="2915:2969" placeholder="..." />
-                <marker date="1469876472000" expanded="true" signature="3162:3216" placeholder="..." />
-                <marker date="1469876472000" expanded="true" signature="3582:3636" placeholder="..." />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1469876706000" expanded="true" signature="2516:2570" placeholder="..." />
+                <marker date="1469876706000" expanded="true" signature="2785:2839" placeholder="..." />
+                <marker date="1469876706000" expanded="true" signature="3205:3259" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -227,13 +235,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5973451" vertical-offset="1425" max-vertical-offset="2220">
-          <caret line="122" column="60" selection-start-line="122" selection-start-column="60" selection-end-line="122" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.5973451" vertical-offset="1410" max-vertical-offset="2205">
+          <caret line="121" column="63" selection-start-line="121" selection-start-column="63" selection-end-line="121" selection-end-column="63" />
           <folding>
-            <marker date="1469876472000" expanded="true" signature="2674:2728" placeholder="..." />
-            <marker date="1469876472000" expanded="true" signature="2915:2969" placeholder="..." />
-            <marker date="1469876472000" expanded="true" signature="3162:3216" placeholder="..." />
-            <marker date="1469876472000" expanded="true" signature="3582:3636" placeholder="..." />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1469876706000" expanded="true" signature="2516:2570" placeholder="..." />
+            <marker date="1469876706000" expanded="true" signature="2785:2839" placeholder="..." />
+            <marker date="1469876706000" expanded="true" signature="3205:3259" placeholder="..." />
           </folding>
         </state>
       </provider>
