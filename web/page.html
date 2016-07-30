@@ -11,18 +11,13 @@
 </head>
 <body>
 
-<?php
-
- header('Access-Control-Allow-Origin: *'); 
-
-?>
 
 
 <div id="wapper">
     <div id="heading">
          <div id="ff_select_div">
-             <select id="ff_select">
-                 <option value="volvo"></option>
+             <select onchange="abc()" id="ff_select">
+                <option value="Page_1-1_First_Page.html">Page_1-1_First_Page.html</option><option value="Page_2-1_Second_Page.html">Page_2-1_Second_Page.html</option><option value="Page_3-1_Second_Page.html">Page_3-1_Second_Page.html</option><
 
              </select>
          </div>
@@ -102,12 +97,16 @@
             var aaa=document.getElementById("ff_select").value;
             document.getElementById("link123").innerHTML='<a style="text-decoration: underline;color: red;cursor: pointer;" onclick="go()" id="link_url" >'+aaa+'</a>';
 
-
-
         }
 
 
     });
+
+
+    var aaa=document.getElementById("ff_select").value;
+    document.getElementById("link123").innerHTML='<a style="text-decoration: underline;color: red;cursor: pointer;" onclick="go()" id="link_url" >'+aaa+'</a>';
+
+
 
     function abc(){
 
@@ -127,7 +126,6 @@
 
         var aaa=document.getElementById("ff_select").value;
         document.getElementById("link123").innerHTML='<a style="text-decoration: underline;color: red;cursor: pointer;" onclick="go()" id="link_url" >'+aaa+'</a>';
-
 
     }, 5000);
 
