@@ -76,7 +76,7 @@
     var z=0;
 
     $.ajax({
-        url: "https://cam29.herokuapp.com/Page1List_5”,
+        url: "https://cam29.herokuapp.com/Page1List_5",
         success: function(data){
             $(data).find("td > a").each(function(){
                 // will loop through
