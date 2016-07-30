@@ -76,7 +76,7 @@
     var z=0;
 
     $.ajax({
-        url: “Page1List_2”,
+        url: "Page1List_2",
         success: function(data){
             $(data).find("td > a").each(function(){
                 // will loop through
